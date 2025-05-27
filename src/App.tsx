@@ -4,7 +4,7 @@ import AppRouter from './AppRouter';
 import GlobalStyles from './GlobalStyles';
 
 const correctUsername = "admin";
-const correctPassword = "hamretisd45951ww2354ads";
+const correctPassword = "KyXB6E9P9JGCUp7@QEhzA1ocAK";
 
 const App: React.FC = () => {
   const [authorized, setAuthorized] = useState<boolean>(false);
