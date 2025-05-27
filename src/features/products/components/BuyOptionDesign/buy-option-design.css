@@ -1,0 +1,48 @@
+.buy-option-design {
+  border: 1px solid;
+  border-color: #072c3d;
+  border-radius: 10px;
+  height: 96px;
+  position: relative;
+  width: 435px;
+}
+
+.buy-option-design .one-pack {
+  color: #1c1f23;
+  
+  font-size: 20px;
+  font-weight: 500;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 24.0px;
+  position: absolute;
+  top: 19px;
+  white-space: nowrap;
+}
+
+.buy-option-design .LVQ-tablets {
+  color: #a7b1b9;
+  
+  font-size: 18px;
+  font-weight: 300;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 21.6px;
+  position: absolute;
+  top: 53px;
+  white-space: nowrap;
+}
+
+.buy-option-design .text-wrapper {
+  color: #a7b1b9;
+  
+  font-size: 18px;
+  font-weight: 300;
+  left: 361px;
+  letter-spacing: 0;
+  line-height: 21.6px;
+  position: absolute;
+  text-align: right;
+  top: 53px;
+  white-space: nowrap;
+}

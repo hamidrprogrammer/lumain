@@ -1,0 +1,115 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: white;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+.container {
+  position: relative;
+  min-height: 100vh;
+  background-color: #1a1a1a;
+  padding: 2rem;
+ 
+  margin: 0 auto;
+}
+
+.background-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url('./footer.png');
+  background-size: cover;
+  background-position: center;
+  opacity: 0.1;
+  z-index: 0;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 2rem;
+  margin-bottom: 4rem;
+  position: relative;
+  z-index: 1;
+}
+
+.nav-left span,
+.nav-right span {
+  margin-right: 2rem;
+  font-size: 1.1rem;
+  cursor: pointer;
+}
+
+.main-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 4rem;
+  position: relative;
+  z-index: 1;
+  padding: 0 2rem;
+}
+
+.section h2 {
+  font-size: 2rem;
+  margin-bottom: 1.5rem;
+  font-weight: 500;
+}
+
+.items span {
+  display: block;
+  margin-bottom: 1rem;
+  font-size: 1.2rem;
+  cursor: pointer;
+  opacity: 0.8;
+  transition: opacity 0.3s;
+}
+
+.items span:hover {
+  opacity: 1;
+}
+
+.footer {
+  position: relative;
+  z-index: 1;
+  margin-top: 4rem;
+  text-align: center;
+}
+
+.footer-links {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  margin-bottom: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.footer-links span {
+  font-size: 0.9rem;
+  opacity: 0.7;
+  cursor: pointer;
+}
+
+.copyright {
+  font-size: 0.8rem;
+  opacity: 0.5;
+  line-height: 1.5;
+  margin-top: 1rem;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .main-grid {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+  
+  .nav {
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+  }
+}

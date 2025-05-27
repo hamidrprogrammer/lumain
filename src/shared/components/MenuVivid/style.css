@@ -1,0 +1,237 @@
+.menu-vivid {
+  position: absolute;
+  display: flex;
+  justify-content: flex-end; /* قرار دادن محتوا سمت راست */
+  width: 100%;
+  height: 100%;
+  z-index: 1000;
+  padding: 15px; /* نصف 30px */
+  box-sizing: border-box;
+}
+
+.menu-vivid .container {
+  background-color: #072c3d2b;
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.menu-vivid .content-panel {
+  background-color: #ffffff;
+  border-radius: 10px;
+  position: absolute;
+  top: 50px;    /* حفظ فاصله از بالا */
+  right: 30px;  /* جایگزین left برای سمت راست */
+  width: 337.5px;  /* نصف 675px */
+  height: 467px;   /* نصف 934px */
+}
+
+.menu-vivid .card {
+  background-size: 100% 100%;
+  height: 115px;  /* نصف 230px */
+  left: 15px;     /* نصف 30px */
+  position: absolute;
+  width: 307.5px; /* نصف 615px */
+}
+
+.menu-vivid .bottle {
+  background-image: url(./mask-group-2.png);
+  top: 15px; /* نصف 30px */
+}
+
+.menu-vivid .tablets {
+  background-image: url(./mask-group.png);
+  top: 145px; /* نصف 290px */
+}
+
+.menu-vivid .arrow {
+  left: 277.5px !important; /* نصف 555px */
+  position: absolute !important;
+  top: 85px !important;      /* نصف 170px */
+}
+
+.menu-vivid .button-instance {
+  left: 6.5px !important;  /* نصف 13px */
+  top: 7.5px !important;   /* نصف 15px */
+}
+
+.menu-vivid .card-title {
+  color: #3ffff8;
+  font-family: "Glacial Indifference-Regular", Helvetica;
+  font-size: 20px;      /* نصف 40px */
+  font-weight: 400;
+  left: 15px;           /* نصف 30px */
+  letter-spacing: 0;
+  line-height: 24px;    /* نصف 48px */
+  position: absolute;
+  top: 14.5px;          /* نصف 29px */
+  white-space: nowrap;
+}
+
+.menu-vivid .nav-links .nav-button {
+  align-items: center;
+  background-color: #eaf9f9;
+  border-radius: 100px;
+  display: flex;
+  left: 15px;            /* نصف 30px */
+  padding: 7px 15px;     /* نصف 14px 30px */
+  position: absolute;
+  width: 307.5px;        /* نصف 615px */
+  border: none;
+  cursor: pointer;
+}
+
+.menu-vivid .vision {
+  top: 270px;           /* نصف 540px */
+  padding: 6px 15px;    /* نصف 12px 30px */
+}
+
+.menu-vivid .science {
+  top: 311px;           /* نصف 622px */
+}
+
+.menu-vivid .revolution {
+  top: 354px;           /* نصف 708px */
+}
+
+.menu-vivid .nav-text {
+  color: #072c3d;
+  font-family: "Outfit-Light", Helvetica;
+  font-size: 15px;      /* نصف 30px */
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  width: fit-content;
+}
+
+.menu-vivid .switchers {
+  display: flex;
+  gap: 10px;           /* نصف 20px */
+  position: absolute;
+  top: 397px;           /* نصف 794px */
+  left: 15px;           /* نصف 30px */
+}
+
+.menu-vivid .switcher {
+  position: relative;
+  width: 147.5px;       /* نصف 295px */
+  height: 25px;         /* نصف 50px */
+}
+
+.menu-vivid .switcher-bg {
+  background-color: #eaf9f9;
+  border-radius: 100px;
+  height: 25px;         /* نصف 50px */
+  opacity: 0.5;
+  position: absolute;
+  width: 100%;
+}
+
+.menu-vivid .icon {
+  position: absolute;
+}
+
+.menu-vivid .globe {
+  height: 13.5px;       /* نصف 27px */
+  left: 9.5px;          /* نصف 19px */
+  top: 5.5px;           /* نصف 11px */
+  width: 13.5px;        /* نصف 27px */
+}
+
+.menu-vivid .language {
+  height: 12.5px;       /* نصف 25px */
+  left: 9.5px;          /* نصف 19px */
+  top: 6px;             /* نصف 12px */
+  width: 12px;          /* نصف 24px */
+}
+
+.menu-vivid .dropdown {
+  height: 4px;          /* نصف 8px */
+  right: 10px;          /* نصف 20px */
+  top: 11px;            /* نصف 22px */
+  width: 6px;           /* نصف 12px */
+}
+
+.menu-vivid .switcher-text {
+  color: #072c3d;
+  font-family: "Outfit-Light", Helvetica;
+  font-size: 9px;       /* نصف 18px */
+  font-weight: 300;
+  left: 29.5px;         /* نصف 59px */
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 7px;             /* نصف 14px */
+}
+
+.menu-vivid .footer {
+  position: absolute;
+  bottom: 10px;         /* نصف 20px */
+  left: 15px;           /* نصف 30px */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 307.5px;       /* نصف 615px */
+}
+
+.menu-vivid .footer-legal {
+  color: #072c3d;
+  font-family: "Outfit-Light", Helvetica;
+  font-size: 9px;       /* نصف 18px */
+  font-weight: 300;
+}
+
+.menu-vivid .footer-social {
+  height: 16px;         /* نصف 32px */
+  width: 86.5px;        /* نصف 173px */
+}
+
+.menu-vivid .top-nav {
+  height: 30px;          /* اندازه اصلی */
+  right: 0;              /* به جای left:0، از right:0 استفاده می‌کنیم */
+  top: 0;
+  width: 800px;          /* کمی بزرگ‌تر از 720px */
+  display: flex;
+  z-index: 500;
+  align-items: center;
+  justify-content: flex-end;  /* چیدن آیتم‌ها سمت راست */
+  padding: 0 20px;        /* padding رو هم کمی بیشتر کردم */
+  position: absolute;     /* حتما position اضافه بشه چون قبلاً absolute بود */
+}
+
+.menu-vivid .logo {
+  height: 10.5px;       /* نصف 21px */
+  width: 85px;          /* نصف 170px */
+}
+
+.menu-vivid .nav-actions {
+  display: flex;
+  align-items: center;
+  gap: 7.5px;           /* نصف 15px */
+}
+
+.menu-vivid .close-text {
+  color: #ffffff;
+  font-family: "Outfit-Regular", Helvetica;
+  font-size: 15px;       /* نصف 14px */
+  font-weight: 400;
+  text-align: right;
+  z-index: 500;
+}
+
+.menu-vivid .menu-icon,
+.menu-vivid .basket-icon {
+  background-color: #ffffff;
+  border-radius: 40px;  /* نصف 20px */
+  height: 40px;         /* نصف 40px */
+  width:  40px;          /* نصف 40px */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 500;
+}
+
+.menu-vivid .menu-icon {
+  background-color: #3ffff8;
+}

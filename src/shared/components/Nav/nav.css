@@ -1,0 +1,105 @@
+.nav {
+  height: 60px;
+  position: relative;
+  width: 1440px;
+}
+
+.nav .group {
+  height: 18px;
+  left: 539px;
+  position: absolute;
+  top: 20px;
+  width: 373px;
+}
+
+.nav .div {
+  color: var(--x-07-2c-3d);
+  
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.nav .text-wrapper-2 {
+  color: var(--x-07-2c-3d);
+  
+  font-size: 14px;
+  font-weight: 400;
+  left: 69px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.nav .text-wrapper-3 {
+  color: var(--x-07-2c-3d);
+  
+  font-size: 14px;
+  font-weight: 400;
+  left: 298px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.nav .text-wrapper-4 {
+  color: var(--x-07-2c-3d);
+  
+  font-size: 14px;
+  font-weight: 400;
+  left: 147px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.nav .text-wrapper-5 {
+  color: var(--x-07-2c-3d);
+  
+  font-size: 14px;
+  font-weight: 400;
+  left: 216px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.nav .basket {
+  height: 20px;
+  left: 1394px;
+  position: absolute;
+  top: 17px;
+  width: 16px;
+}
+
+.nav .profile {
+  height: 20px;
+  left: 1359px;
+  position: absolute;
+  top: 16px;
+  width: 17px;
+}
+
+.nav .globe {
+  height: 20px;
+  left: 1322px;
+  position: absolute;
+  top: 16px;
+  width: 20px;
+}
+
+.nav .logo {
+  height: 21px;
+  left: 30px;
+  position: absolute;
+  top: 19px;
+  width: 170px;
+}

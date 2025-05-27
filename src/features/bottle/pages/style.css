@@ -1,0 +1,1751 @@
+.bottle {
+  background-color: #000;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.bottle .div-2 {
+  background-color: #000;
+  height: 14723px;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.bottle .div-3 {
+  height: 860px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.bottle .overlap-group {
+  background-color: #000000;
+  height: 860px;
+  position: relative;
+  width: 100%;
+}
+
+.bottle .bottle-hand-gold {
+  height: 833px;
+  left: 606px;
+  position: absolute;
+  top: 27px;
+  width: 703px;
+}
+
+.bottle .frame {
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 100px;
+  display: inline-flex;
+  justify-content: center;
+  left: 148px;
+  padding: 9px 20px 10px;
+  position: absolute;
+  top: 560px;
+}
+
+.bottle .text-wrapper-5 {
+  color: #1c1f23;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.bottle .div-wrapper {
+  -webkit-backdrop-filter: blur(20px) brightness(100%);
+  align-items: center;
+  backdrop-filter: blur(20px) brightness(100%);
+  background-color: #ffffff1a;
+  border: 2px solid;
+  border-color: #3ffff8;
+  border-radius: 200px;
+  display: inline-flex;
+  justify-content: center;
+  left: 352px;
+  padding: 9px 20px 10px;
+  position: absolute;
+  top: 560px;
+}
+
+.bottle .text-wrapper-6 {
+  color: #3ffff8;
+  
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -2.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.bottle .text-wrapper-7 {
+  color: #3ffff8;
+  
+  font-size: 60px;
+  font-weight: 300;
+  left: 148px;
+  letter-spacing: 0;
+  line-height: 72.0px;
+  position: absolute;
+  top: 222px;
+  width: 448px;
+}
+
+.bottle .the-future-of-water {
+  color: #ffffff;
+  
+  font-size: 20px;
+  font-weight: 400;
+  left: 148px;
+  letter-spacing: 0;
+  line-height: 24.0px;
+  position: absolute;
+  top: 458px;
+  width: 357px;
+}
+
+.bottle .nav-instance {
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.bottle .CTA {
+  height: 2071px;
+  left: 0;
+  position: absolute;
+  top: 11792px;
+  width: 100%;
+}
+
+.bottle .overlap {
+  background: linear-gradient(180deg, rgb(7, 44, 61) 0%, rgb(0, 0, 0) 100%);
+  height: 2071px;
+  position: relative;
+  width: 100%;
+}
+
+.bottle .bottle-gold {
+  height: 512px;
+  left: 879px;
+  object-fit: cover;
+  position: absolute;
+  top: 287px;
+  width: 153px;
+}
+
+.bottle .bottle-grey {
+  height: 514px;
+  left: 407px;
+  object-fit: cover;
+  position: absolute;
+  top: 285px;
+  width: 154px;
+}
+
+.bottle .details {
+  height: 742px;
+  left: 409px;
+  position: absolute;
+  top: 1179px;
+  width: 157px;
+}
+
+.bottle .group-2 {
+  height: 69px;
+  left: 29px;
+  position: absolute;
+  top: 463px;
+  width: 102px;
+}
+
+.bottle .iconoir-color-filter {
+  height: 32px;
+  left: 33px;
+  position: absolute;
+  top: 0;
+  width: 32px;
+}
+
+.bottle .text-wrapper-8 {
+  color: #ffffff;
+  
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  text-align: center;
+  top: 52px;
+  white-space: nowrap;
+}
+
+.bottle .group-3 {
+  height: 69px;
+  left: 16px;
+  position: absolute;
+  top: 245px;
+  width: 128px;
+}
+
+.bottle .iconoir-hydrogen {
+  height: 32px;
+  left: 47px;
+  position: absolute;
+  top: 0;
+  width: 32px;
+}
+
+.bottle .group-4 {
+  height: 96px;
+  left: 10px;
+  position: absolute;
+  top: 109px;
+  width: 141px;
+}
+
+.bottle .p {
+  color: #ffffff;
+  
+  font-size: 14px;
+  font-weight: 400;
+  left: 6px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  text-align: center;
+  top: 79px;
+  white-space: nowrap;
+}
+
+.bottle .radix-icons {
+  height: 32px;
+  left: 53px;
+  position: absolute;
+  top: 0;
+  width: 32px;
+}
+
+.bottle .group-5 {
+  height: 69px;
+  left: 46px;
+  position: absolute;
+  top: 354px;
+  width: 68px;
+}
+
+.bottle .iconoir-sine-wave {
+  height: 32px;
+  left: 16px;
+  position: absolute;
+  top: 0;
+  width: 32px;
+}
+
+.bottle .group-6 {
+  height: 69px;
+  left: 34px;
+  position: absolute;
+  top: 572px;
+  width: 93px;
+}
+
+.bottle .ion-magnet {
+  height: 32px;
+  left: 27px;
+  position: absolute;
+  top: 0;
+  width: 32px;
+}
+
+.bottle .group-7 {
+  height: 61px;
+  left: 26px;
+  position: absolute;
+  top: 681px;
+  width: 109px;
+}
+
+.bottle .text-wrapper-9 {
+  color: #ffffff;
+  
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  text-align: center;
+  top: 44px;
+  white-space: nowrap;
+}
+
+.bottle .membrane {
+  height: 24px;
+  left: 40px;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.bottle .group-8 {
+  height: 69px;
+  left: 2px;
+  position: absolute;
+  top: 0;
+  width: 155px;
+}
+
+.bottle .material-symbols {
+  height: 32px;
+  left: 61px;
+  position: absolute;
+  top: 0;
+  width: 32px;
+}
+
+.bottle .details-2 {
+  height: 742px;
+  left: 879px;
+  position: absolute;
+  top: 1179px;
+  width: 157px;
+}
+
+.bottle .line {
+  height: 1px;
+  left: 265px;
+  object-fit: cover;
+  position: absolute;
+  top: 1078px;
+  width: 910px;
+}
+
+.bottle .text-wrapper-10 {
+  color: #ffffff;
+  
+  font-size: 50px;
+  font-weight: 400;
+  left: 265px;
+  letter-spacing: 0;
+  line-height: 60.0px;
+  position: absolute;
+  top: 117px;
+  width: 312px;
+}
+
+.bottle .order-a-bottle-today {
+  color: transparent;
+  
+  font-size: 20px;
+  font-weight: 400;
+  left: 735px;
+  letter-spacing: 0;
+  line-height: 24.0px;
+  position: absolute;
+  top: 129px;
+  width: 371px;
+}
+
+.bottle .span {
+  color: #ffffff;
+  font-weight: 700;
+}
+
+.bottle .text-wrapper-11 {
+  color: #ffffff;
+  
+}
+
+.bottle .text-wrapper-12 {
+  color: #ffffff;
+  
+  text-decoration: underline;
+}
+
+.bottle .text-wrapper-13 {
+  color: #ffffff;
+  
+  font-size: 20px;
+  font-weight: 400;
+  left: 367px;
+  letter-spacing: 0;
+  line-height: 24.0px;
+  position: absolute;
+  text-align: center;
+  top: 888px;
+  white-space: nowrap;
+}
+
+.bottle .text-wrapper-14 {
+  color: #ffffff;
+  
+  font-size: 30px;
+  font-weight: 400;
+  left: 383px;
+  letter-spacing: 0;
+  line-height: 36.0px;
+  position: absolute;
+  text-align: center;
+  top: 842px;
+  white-space: nowrap;
+}
+
+.bottle .text-wrapper-15 {
+  color: #ffffff;
+  
+  font-size: 20px;
+  font-weight: 400;
+  left: 845px;
+  letter-spacing: 0;
+  line-height: 24.0px;
+  position: absolute;
+  text-align: center;
+  top: 888px;
+  white-space: nowrap;
+}
+
+.bottle .text-wrapper-16 {
+  color: #ffffff;
+  
+  font-size: 30px;
+  font-weight: 400;
+  left: 878px;
+  letter-spacing: 0;
+  line-height: 36.0px;
+  position: absolute;
+  text-align: center;
+  top: 842px;
+  white-space: nowrap;
+}
+
+.bottle .frame-2 {
+  -webkit-backdrop-filter: blur(20px) brightness(100%);
+  align-items: center;
+  backdrop-filter: blur(20px) brightness(100%);
+  background-color: #ffffff1a;
+  border: 2px solid;
+  border-color: #3ffff8;
+  border-radius: 200px;
+  display: inline-flex;
+  justify-content: center;
+  left: 428px;
+  padding: 9px 20px 10px;
+  position: absolute;
+  top: 932px;
+}
+
+.bottle .frame-3 {
+  -webkit-backdrop-filter: blur(20px) brightness(100%);
+  align-items: center;
+  backdrop-filter: blur(20px) brightness(100%);
+  background-color: #ffffff1a;
+  border: 2px solid;
+  border-color: #3ffff8;
+  border-radius: 200px;
+  display: inline-flex;
+  justify-content: center;
+  left: 898px;
+  padding: 9px 20px 10px;
+  position: absolute;
+  top: 932px;
+}
+
+.bottle .section-eleven {
+  height: 800px;
+  left: 0;
+  position: absolute;
+  top: 8117px;
+  width: 100%;
+}
+
+.bottle .overlap-2 {
+  background-image: url(../images/mask-group-4.png);
+  background-size: 100% 100%;
+  height: 800px;
+  position: relative;
+  width: 100%;
+}
+
+.bottle .text-wrapper-17 {
+  color: #ffffff;
+  
+  font-size: 50px;
+  font-weight: 700;
+  left: 537px;
+  letter-spacing: 0;
+  line-height: 60.0px;
+  position: absolute;
+  text-align: center;
+  top: 323px;
+  white-space: nowrap;
+}
+
+.bottle .text-wrapper-18 {
+  color: #ffffff;
+  
+  font-size: 30px;
+  font-weight: 400;
+  left: 496px;
+  letter-spacing: 0;
+  line-height: 36.0px;
+  position: absolute;
+  text-align: center;
+  top: 403px;
+  white-space: nowrap;
+}
+
+.bottle .section-ten {
+  height: 800px;
+  left: 0;
+  position: absolute;
+  top: 7317px;
+  width: 100%;
+}
+
+.bottle .overlap-3 {
+  background-image: url(../images/mask-group-9.png);
+  background-size: 100% 100%;
+  height: 800px;
+  position: relative;
+  width: 100%;
+}
+
+.bottle .text-wrapper-19 {
+  color: #ff3f8f;
+  
+  font-size: 30px;
+  font-weight: 400;
+  left: 148px;
+  letter-spacing: 0;
+  line-height: 36.0px;
+  position: absolute;
+  top: 276px;
+  width: 336px;
+}
+
+.bottle .power-up-ignite {
+  height: 42px;
+  left: 149px;
+  position: absolute;
+  top: 337px;
+  width: 213px;
+}
+
+.bottle .text-wrapper-20 {
+  color: #ffffff;
+  
+  font-size: 16px;
+  font-weight: 400;
+  left: 148px;
+  letter-spacing: 0;
+  line-height: 19.2px;
+  position: absolute;
+  top: 400px;
+  width: 304px;
+}
+
+.bottle .section-nine {
+  height: 800px;
+  left: 0;
+  position: absolute;
+  top: 6517px;
+  width: 100%;
+}
+
+.bottle .overlap-4 {
+  background-image: url(../images/mask-group.png);
+  background-size: 100% 100%;
+  height: 800px;
+  position: relative;
+  width: 100%;
+}
+
+.bottle .text-wrapper-21 {
+  color: #34a9ff;
+  
+  font-size: 30px;
+  font-weight: 400;
+  left: 148px;
+  letter-spacing: 0;
+  line-height: 36.0px;
+  position: absolute;
+  top: 300px;
+  width: 336px;
+}
+
+.bottle .restore-balance {
+  color: transparent;
+  
+  font-size: 20px;
+  font-weight: 400;
+  left: 148px;
+  letter-spacing: 0;
+  line-height: 24.0px;
+  position: absolute;
+  top: 356px;
+  width: 336px;
+}
+
+.bottle .text-wrapper-22 {
+  color: #ffffff;
+  
+  font-size: 16px;
+  font-weight: 400;
+  left: 148px;
+  letter-spacing: 0;
+  line-height: 19.2px;
+  position: absolute;
+  top: 424px;
+  width: 336px;
+}
+
+.bottle .section-eight {
+  height: 800px;
+  left: 0;
+  position: absolute;
+  top: 5717px;
+  width: 100%;
+}
+
+.bottle .overlap-5 {
+  background-image: url(../images/mask-group-3.png);
+  background-size: 100% 100%;
+  height: 800px;
+  position: relative;
+  width: 100%;
+}
+
+.bottle .text-wrapper-23 {
+  color: #ffffff;
+  
+  font-size: 30px;
+  font-weight: 400;
+  left: 148px;
+  letter-spacing: 0;
+  line-height: 36.0px;
+  position: absolute;
+  top: 232px;
+  width: 336px;
+}
+.text-wrapper-90 {
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 400;
+  left: 148px;
+  letter-spacing: 0;
+  line-height: 36.0px;
+    position: absolute;
+  top: 270px;
+
+  width: 336px;
+}
+
+.bottle .sunlight-captured {
+  height: 43px;
+  left: 148px;
+  position: absolute;
+  top: 292px;
+  width: 169px;
+}
+
+.bottle .lumivit-bridges-the {
+  height: 207px;
+  left: 148px;
+  position: absolute;
+  top: 359px;
+  width: 311px;
+}
+
+.bottle .section-seven {
+  height: 800px;
+  left: 0;
+  position: absolute;
+  top: 4917px;
+  width: 100%;
+}
+
+.bottle .overlap-6 {
+  background-image: url(../images/mask-group-7.png);
+  background-size: 100% 100%;
+  height: 800px;
+  position: relative;
+  width: 100%;
+}
+
+.bottle .text-wrapper-24 {
+  color: #ffffff;
+  
+  font-size: 50px;
+  font-weight: 400;
+  left: 148px;
+  letter-spacing: 0;
+  line-height: 60.0px;
+  position: absolute;
+  top: 164px;
+  width: 391px;
+}
+
+.bottle .hydration-reimagined {
+  height: 64px;
+  left: 150px;
+  position: absolute;
+  top: 252px;
+  width: 310px;
+}
+
+.bottle .flexcontainer {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: 188px;
+  left: 148px;
+  position: absolute;
+  top: 336px;
+  width: 391px;
+}
+
+.bottle .text {
+  align-self: stretch;
+  color: #ffffff;
+  
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24.0px;
+  position: relative;
+}
+
+.bottle .text-wrapper-25 {
+  color: #ffffff;
+  
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24.0px;
+}
+
+.bottle .frame-4 {
+  -webkit-backdrop-filter: blur(20px) brightness(100%);
+  align-items: center;
+  backdrop-filter: blur(20px) brightness(100%);
+  background-color: #ffffff;
+  border: 2px solid;
+  border-color: #ffffff1a;
+  border-radius: 200px;
+  display: inline-flex;
+  justify-content: center;
+  left: 148px;
+  padding: 9px 20px 10px;
+  position: absolute;
+  top: 598px;
+}
+
+.bottle .text-wrapper-26 {
+  color: var(--x-07-2c-3d);
+  
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -2.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.bottle .frame-5 {
+  -webkit-backdrop-filter: blur(20px) brightness(100%);
+  align-items: center;
+  backdrop-filter: blur(20px) brightness(100%);
+  background-color: #ffffff;
+  border: 2px solid;
+  border-color: #ffffff1a;
+  border-radius: 200px;
+  display: inline-flex;
+  justify-content: center;
+  left: 441px;
+  padding: 9px 20px 10px;
+  position: absolute;
+  top: 598px;
+}
+
+.bottle .frame-6 {
+  -webkit-backdrop-filter: blur(20px) brightness(100%);
+  align-items: center;
+  backdrop-filter: blur(20px) brightness(100%);
+  background-color: #ffffff;
+  border: 2px solid;
+  border-color: #ffffff1a;
+  border-radius: 200px;
+  display: inline-flex;
+  justify-content: center;
+  left: 297px;
+  padding: 9px 20px 10px;
+  position: absolute;
+  top: 598px;
+}
+
+.bottle .text-wrapper-27 {
+  color: #ffffff;
+  
+  font-size: 20px;
+  font-weight: 400;
+  left: 148px;
+  letter-spacing: 0;
+  line-height: 24.0px;
+  position: absolute;
+  top: 554px;
+  width: 391px;
+}
+
+.bottle .section-six {
+  height: 860px;
+  left: 0;
+  position: absolute;
+  top: 3997px;
+  width: 100%;
+}
+
+.bottle .overlap-7 {
+  background-image: url(../images/mask-group-2.png);
+  background-size: 100% 100%;
+  height: 860px;
+  position: relative;
+  width: 100%;
+}
+
+.bottle .we-created-planet {
+  color: #ffffff;
+  
+  font-size: 50px;
+  font-weight: 400;
+  left: 148px;
+  letter-spacing: 0;
+  line-height: 60.0px;
+  position: absolute;
+  top: 150px;
+  width: 437px;
+}
+
+.bottle .text-wrapper-28 {
+  font-weight: 300;
+}
+
+.bottle .text-wrapper-29 {
+  
+  font-weight: 500;
+}
+
+.bottle .frame-7 {
+  -webkit-backdrop-filter: blur(20px) brightness(100%);
+  align-items: center;
+  backdrop-filter: blur(20px) brightness(100%);
+  background-color: #ffffff1a;
+  border: 2px solid;
+  border-color: #3ffff8;
+  border-radius: 200px;
+  display: inline-flex;
+  gap: 20px;
+  justify-content: center;
+  left: 1022px;
+  padding: 9px 30px 10px;
+  position: absolute;
+  top: 176px;
+}
+
+.bottle .ellipse {
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0px 0px 50px #3ffff84c;
+  height: 20px;
+  position: relative;
+  width: 20px;
+}
+
+.bottle .text-wrapper-30 {
+  color: #3ffff8;
+  
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24.0px;
+  margin-top: -2.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.bottle .frame-8 {
+  -webkit-backdrop-filter: blur(20px) brightness(100%);
+  align-items: center;
+  backdrop-filter: blur(20px) brightness(100%);
+  background-color: #ffffff1a;
+  border: 2px solid;
+  border-color: #3ffff8;
+  border-radius: 200px;
+  display: inline-flex;
+  gap: 20px;
+  justify-content: center;
+  left: 813px;
+  padding: 9px 30px 10px;
+  position: absolute;
+  top: 500px;
+}
+
+.bottle .frame-9 {
+  -webkit-backdrop-filter: blur(20px) brightness(100%);
+  align-items: center;
+  backdrop-filter: blur(20px) brightness(100%);
+  background-color: #ffffff1a;
+  border: 2px solid;
+  border-color: #3ffff8;
+  border-radius: 200px;
+  display: inline-flex;
+  gap: 20px;
+  justify-content: center;
+  left: 404px;
+  padding: 9px 30px 10px;
+  position: absolute;
+  top: 404px;
+}
+
+.bottle .chromotherapy {
+  color: #3ffff8;
+  
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24.0px;
+  margin-top: -2.00px;
+  position: relative;
+  text-align: right;
+  width: fit-content;
+}
+
+.bottle .frame-10 {
+  -webkit-backdrop-filter: blur(20px) brightness(100%);
+  align-items: center;
+  backdrop-filter: blur(20px) brightness(100%);
+  background-color: #ffffff1a;
+  border: 2px solid;
+  border-color: #3ffff8;
+  border-radius: 200px;
+  display: inline-flex;
+  gap: 20px;
+  justify-content: center;
+  left: 513px;
+  padding: 9px 30px 10px;
+  position: absolute;
+  top: 725px;
+}
+
+.bottle .text-wrapper-31 {
+  color: #3ffff8;
+  
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24.0px;
+  margin-top: -2.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.bottle .section-five {
+  height: 1171px;
+  left: 0;
+  position: absolute;
+  top: 2826px;
+  width: 100%;
+}
+
+.bottle .we-created-planet-wrapper {
+  background-image: url(../images/mask-group-6.png);
+  background-size: 100% 100%;
+  height: 1171px;
+  position: relative;
+  width: 100%;
+}
+
+.bottle .we-created-planet-2 {
+  color: #ffffff;
+  
+  font-size: 50px;
+  font-weight: 400;
+  left: 486px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 150px;
+  width: 468px;
+}
+
+.bottle .text-wrapper-32 {
+  font-weight: 300;
+  line-height: 60.0px;
+}
+
+.bottle .text-wrapper-33 {
+  
+  font-weight: 500;
+  line-height: 60.0px;
+}
+
+.bottle .overlap-8 {
+  height: 1166px;
+  left: 0;
+  position: absolute;
+  top: 1660px;
+  width: 100%;
+}
+
+.bottle .section-four {
+  height: 1166px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width:100%;
+      background-color: #072C3D;
+}
+
+.bottle .overlap-9 {
+  background-color: var(--x-07-2c-3d);
+  height: 1166px;
+  position: relative;
+  width: 100%;
+}
+
+.bottle .text-wrapper-34 {
+  color: #ffffff;
+  
+  font-size: 50px;
+  font-weight: 300;
+  left: 265px;
+  letter-spacing: 0;
+  line-height: 60.0px;
+  position: absolute;
+  top: 150px;
+  width: 588px;
+}
+
+.bottle .text-wrapper-35 {
+  color: #ffffff;
+  
+  font-size: 20px;
+  font-weight: 400;
+  left: 265px;
+  letter-spacing: 0;
+  line-height: 24.0px;
+  position: absolute;
+  top: 230px;
+  width: 643px;
+}
+
+.bottle .molecular-hydrogen {
+  color: #ffffff;
+  
+  font-size: 20px;
+  font-weight: 400;
+  left: 265px;
+  letter-spacing: 0;
+  line-height: 24.0px;
+  position: absolute;
+  top: 920px;
+  width: 323px;
+}
+
+.bottle .text-wrapper-36 {
+  
+  font-weight: 600;
+}
+
+.bottle .it-s-not-just-water {
+  color: #ffffff;
+  
+  font-size: 20px;
+  font-weight: 400;
+  left: 735px;
+  letter-spacing: 0;
+  line-height: 24.0px;
+  position: absolute;
+  top: 920px;
+  width: 255px;
+}
+
+.bottle .img {
+  height: 18px;
+  left: 1271px;
+  position: absolute;
+  top: 930px;
+  width: 23px;
+}
+
+.bottle .group-9 {
+  height: 18px;
+  left: 1236px;
+  position: absolute;
+  top: 930px;
+  width: 23px;
+}
+
+.bottle .slider {
+  height: 408px;
+  left: 0;
+
+  position: absolute;
+  top: 348px;
+  width: 100%;
+}
+
+.bottle .slider::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.bottle .image {
+  height: 350px;
+  left: 148px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 322px;
+}
+
+.bottle .rectangle {
+  height: 350px;
+  left: 230px;
+  position: absolute;
+  top: 0;
+  width: 323px;
+}
+
+.bottle .rectangle-2 {
+  height: 350px;
+  left: 853px;
+  position: absolute;
+  top: 0;
+  width: 322px;
+}
+
+.bottle .reduces-oxidative {
+  color: transparent;
+  
+  font-size: 16px;
+  font-weight: 400;
+  left: 148px;
+  letter-spacing: 0;
+  line-height: 19.2px;
+  position: absolute;
+  top: 369px;
+  width: 322px;
+}
+
+.bottle .text-wrapper-37 {
+  color: #ffffff;
+  font-weight: 600;
+}
+
+.bottle .boosts-natural {
+  color: transparent;
+  
+  font-size: 16px;
+  font-weight: 400;
+  left: 500px;
+  letter-spacing: 0;
+  line-height: 19.2px;
+  position: absolute;
+  top: 369px;
+  width: 322px;
+}
+
+.bottle .enhances-energy {
+  color: transparent;
+  
+  font-size: 16px;
+  font-weight: 400;
+  left: 853px;
+  letter-spacing: 0;
+  line-height: 19.2px;
+  position: absolute;
+  top: 369px;
+  width: 322px;
+}
+
+.bottle .rectangle-3 {
+  height: 350px;
+  left: 1205px;
+  position: absolute;
+  top: 0;
+  width: 322px;
+}
+
+.bottle .rectangle-4 {
+  height: 350px;
+  left: 1557px;
+  position: absolute;
+  top: 0;
+  width: 322px;
+}
+
+.bottle .supports-healthy {
+  color: transparent;
+  
+  font-size: 16px;
+  font-weight: 400;
+  left: 1205px;
+  letter-spacing: 0;
+  line-height: 19.2px;
+  position: absolute;
+  top: 369px;
+  width: 322px;
+}
+
+.bottle .protects-the-brain {
+  color: transparent;
+  
+  font-size: 16px;
+  font-weight: 400;
+  left: 1557px;
+  letter-spacing: 0;
+  line-height: 19.2px;
+  position: absolute;
+  top: 369px;
+  width: 322px;
+}
+
+.bottle .section-three {
+  height: 800px;
+  left: 0;
+  position: absolute;
+  top: 860px;
+  width: 100%;
+}
+
+.bottle .overlap-10 {
+  background-image: url(../images/mask-group-8.png);
+  background-size: 100% 100%;
+  height: 800px;
+  position: relative;
+  width: 100%;
+}
+
+.bottle .text-wrapper-38 {
+  color: #ffffff;
+  
+  font-size: 50px;
+  font-weight: 300;
+  left: 148px;
+  letter-spacing: 0;
+  line-height: 60.0px;
+  position: absolute;
+  top: 150px;
+  width: 458px;
+}
+
+.bottle .the-smallest {
+  color: #ffffff;
+  
+  font-size: 30px;
+  font-weight: 400;
+  left: 148px;
+  letter-spacing: 0;
+  line-height: 36.0px;
+  position: absolute;
+  top: 230px;
+  width: 345px;
+}
+
+.bottle .flexcontainer-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: 328px;
+  left: 148px;
+  position: absolute;
+  top: 322px;
+  width: 398px;
+}
+
+.bottle .overlap-wrapper {
+  height: 1275px;
+  left: 0;
+  position: absolute;
+  top: 9717px;
+  width: 1450px;
+}
+
+.bottle .overlap-11 {
+  background-color: var(--x-07-2c-3d);
+  height: 1275px;
+  position: relative;
+  width: 100%;
+}
+
+.bottle .frame-11 {
+  height: 408px;
+  left: 0;
+  overflow-x: scroll;
+  position: absolute;
+  top: 452px;
+  width: 100%;
+}
+
+.bottle .frame-11::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.bottle .image-2 {
+  height: 350px;
+  left: 148px;
+  position: absolute;
+  top: 0;
+  width: 440px;
+}
+
+.bottle .image-3 {
+  height: 350px;
+  left: 618px;
+  position: absolute;
+  top: 0;
+  width: 440px;
+}
+
+.bottle .image-4 {
+  height: 350px;
+  left: 1088px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 440px;
+}
+
+.bottle .premium-electrodes {
+  color: transparent;
+  
+  font-size: 16px;
+  font-weight: 400;
+  left: 148px;
+  letter-spacing: 0;
+  line-height: 19.2px;
+  position: absolute;
+  top: 369px;
+  width: 440px;
+}
+
+.bottle .advanced-PEM {
+  color: transparent;
+  
+  font-size: 16px;
+  font-weight: 400;
+  left: 618px;
+  letter-spacing: 0;
+  line-height: 19.2px;
+  position: absolute;
+  top: 369px;
+  width: 440px;
+}
+
+.bottle .low-voltage {
+  color: transparent;
+  
+  font-size: 16px;
+  font-weight: 400;
+  left: 1088px;
+  letter-spacing: 0;
+  line-height: 19.2px;
+  position: absolute;
+  top: 369px;
+  width: 440px;
+}
+
+.bottle .hydrogen-pioneering {
+  color: #ffffff;
+  
+  font-size: 50px;
+  font-weight: 400;
+  left: 265px;
+  letter-spacing: 0;
+  line-height: 60.0px;
+  position: absolute;
+  top: 150px;
+  width: 537px;
+}
+
+.bottle .text-wrapper-39 {
+  color: #ffffff;
+  
+  font-size: 20px;
+  font-weight: 400;
+  left: 265px;
+  letter-spacing: 0;
+  line-height: 24.0px;
+  position: absolute;
+  top: 300px;
+  width: 675px;
+}
+
+.bottle .text-wrapper-40 {
+  color: #ffffff;
+  
+  font-size: 16px;
+  font-weight: 400;
+  left: 265px;
+  letter-spacing: 0;
+  line-height: 19.2px;
+  position: absolute;
+  top: 344px;
+  width: 632px;
+}
+
+.bottle .every-sip-meets-the {
+  color: transparent;
+  
+  font-size: 20px;
+  font-weight: 400;
+  left: 265px;
+  letter-spacing: 0;
+  line-height: 24.0px;
+  position: absolute;
+  top: 1029px;
+  width: 323px;
+}
+
+.bottle .this-isn-t-just {
+  color: transparent;
+  
+  font-size: 20px;
+  font-weight: 400;
+  left: 735px;
+  letter-spacing: 0;
+  line-height: 24.0px;
+  position: absolute;
+  top: 1029px;
+  width: 296px;
+}
+
+.bottle .text-wrapper-41 {
+  color: #ffffff;
+}
+
+.bottle .text-wrapper-42 {
+  color: #ffffff;
+  
+  font-weight: 700;
+}
+
+.bottle .group-10 {
+  height: 18px;
+  left: 1271px;
+  position: absolute;
+  top: 910px;
+  width: 23px;
+}
+
+.bottle .group-11 {
+  height: 18px;
+  left: 1236px;
+  position: absolute;
+  top: 910px;
+  width: 23px;
+}
+
+.bottle .overlap-group-wrapper {
+  height: 800px;
+  left: 0;
+  position: absolute;
+  top: 10992px;
+  width: 100%;
+}
+
+.bottle .overlap-12 {
+  background-image: url(../images/mask-group-5.png);
+  background-size: 100% 100%;
+  height: 800px;
+  position: relative;
+  width: 100%;
+}
+
+.bottle .text-wrapper-43 {
+  color: #ffffff;
+  
+  font-size: 50px;
+  font-weight: 400;
+  left: 853px;
+  letter-spacing: 0;
+  line-height: 60.0px;
+  position: absolute;
+  top: 162px;
+  width: 391px;
+}
+
+.bottle .earth-s-energy {
+  color: transparent;
+  
+  font-size: 20px;
+  font-weight: 400;
+  left: 853px;
+  letter-spacing: 0;
+  line-height: 24.0px;
+  position: absolute;
+  top: 242px;
+  width: 336px;
+}
+
+.bottle .flexcontainer-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: 268px;
+  left: 853px;
+  position: absolute;
+  top: 286px;
+  width: 336px;
+}
+
+.bottle .text-2 {
+  align-self: stretch;
+  color: transparent;
+  
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 19.2px;
+  position: relative;
+}
+
+.bottle .chromo-colours {
+  background-image: url(../images/imageBot.png);
+  background-size: 100% 100%;
+  height: 800px;
+  left: 0;
+  position: absolute;
+  top: 8917px;
+  width: 100%;
+}
+
+.bottle .colour-your {
+  color: transparent;
+  
+  font-size: 30px;
+  font-weight: 400;
+  left: 853px;
+  letter-spacing: 0;
+  line-height: 36.0px;
+  position: absolute;
+  top: 213px;
+  width: 336px;
+}
+
+.bottle .flexcontainer-i {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: 280px;
+  left: 853px;
+  position: absolute;
+  top: 305px;
+  width: 373px;
+}
+
+.bottle .text-i {
+  align-self: stretch;
+  color: transparent;
+  
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24.0px;
+  position: relative;
+}
+
+.bottle .colours {
+  -webkit-backdrop-filter: blur(20px) brightness(100%);
+  backdrop-filter: blur(20px) brightness(100%);
+  background-color: #ffffff33;
+  border-radius: 100px;
+  height: 60px;
+  left: 537px;
+  position: absolute;
+  top: 700px;
+  width: 365px;
+}
+
+.bottle .ellipse-2 {
+  background-color: #8919f5;
+  border-radius: 20px;
+  height: 40px;
+  left: 10px;
+  position: absolute;
+  top: 10px;
+  width: 40px;
+}
+
+.bottle .ellipse-3 {
+  background-color: #19d6f5;
+  border-radius: 20px;
+  height: 40px;
+  left: 110px;
+  position: absolute;
+  top: 10px;
+  width: 40px;
+}
+
+.bottle .ellipse-4 {
+  background-color: #f5df19;
+  border-radius: 20px;
+  height: 40px;
+  left: 215px;
+  position: absolute;
+  top: 10px;
+  width: 40px;
+}
+
+.bottle .ellipse-5 {
+  background-color: #1840f5;
+  border-radius: 20px;
+  height: 40px;
+  left: 60px;
+  position: absolute;
+  top: 10px;
+  width: 40px;
+}
+
+.bottle .ellipse-6 {
+  background-color: #22f51b;
+  border-radius: 20px;
+  height: 40px;
+  left: 160px;
+  position: absolute;
+  top: 10px;
+  width: 40px;
+}
+
+.bottle .ellipse-7 {
+  background-color: #fe781c;
+  border-radius: 20px;
+  height: 40px;
+  left: 265px;
+  position: absolute;
+  top: 10px;
+  width: 40px;
+}
+
+.bottle .ellipse-8 {
+  background-color: #fe241c;
+  border-radius: 20px;
+  height: 40px;
+  left: 315px;
+  position: absolute;
+  top: 10px;
+  width: 40px;
+}
+
+.bottle .nav-2 {
+  background-color: #000309;
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 4857px;
+  width: 100%;
+}
+
+.bottle .group-12 {
+  height: 18px;
+  left: 30px;
+  position: absolute;
+  top: 21px;
+  width: 417px;
+}
+
+.bottle .text-wrapper-44 {
+  color: #ffffff;
+  
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.bottle .text-wrapper-45 {
+  color: #ffffff;
+  
+  font-size: 14px;
+  font-weight: 400;
+  left: 96px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.bottle .text-wrapper-46 {
+  color: #ffffff;
+  
+  font-size: 14px;
+  font-weight: 400;
+  left: 226px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.bottle .text-wrapper-47 {
+  color: #ffffff;
+  
+  font-size: 14px;
+  font-weight: 400;
+  left: 318px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.bottle .frame-12 {
+  -webkit-backdrop-filter: blur(20px) brightness(100%);
+  align-items: center;
+  backdrop-filter: blur(20px) brightness(100%);
+  background-color: #ffffff1a;
+  border: 2px solid;
+  border-color: #3ffff8;
+  border-radius: 200px;
+  display: inline-flex;
+  justify-content: center;
+  left: 1308px;
+  padding: 9px 20px 10px;
+  position: absolute;
+  top: 11px;
+}
+
+.bottle .text-wrapper-48 {
+  color: #3ffff8;
+  
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -2.00px;
+  position: relative;
+  width: fit-content;
+}
